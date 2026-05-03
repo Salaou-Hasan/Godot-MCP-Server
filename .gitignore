@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Godot user data
+.godot/
+.import/
+.uid
+*.uid
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Local config overrides (if any)
+*.local.json
+
+# Logs
+*.log
+npm-debug.log*

@@ -1,0 +1,25 @@
+{
+  "name": "godot-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Godot – gives Claude Desktop full control over your project: file ops, scene/script creation, testing, addon installation, and more.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "godot",
+    "mcp",
+    "claude",
+    "ai",
+    "game-development"
+  ],
+  "author": "SALAOU-HASAN",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "adm-zip": "^0.5.10",
+    "diff": "^5.1.0",
+    "glob": "^10.0.0"
+  }
+}
