@@ -49,12 +49,27 @@ This MCP (Model Context Protocol) server gives Claude Desktop full control over 
 
 ## Screenshots
 
-### Plugin enabled in Godot
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-![Plugin enabled](https://raw.githubusercontent.com/Salaou-Hasan/Godot-MCP-Server/main/images/Plugin_enabled.png)
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <img src="https://raw.githubusercontent.com/Salaou-Hasan/Godot-MCP-Server/main/images/Plugin_enabled.png" alt="Plugin enabled" style="width: 100%; height: auto;">
+    <div style="padding: 12px; text-align: center; background: #f5f5f5;">
+      <strong>Step 2:</strong> Enable the plugin in Godot
+    </div>
+  </div>
 
-### Claude Desktop tools
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <img src="https://raw.githubusercontent.com/Salaou-Hasan/Godot-MCP-Server/main/images/Tools.png" alt="Claude tools" style="width: 100%; height: auto;">
+    <div style="padding: 12px; text-align: center; background: #f5f5f5;">
+      <strong>Claude Desktop</strong> – Available MCP tools
+    </div>
+  </div>
 
-![Tools](https://raw.githubusercontent.com/Salaou-Hasan/Godot-MCP-Server/main/images/Tools.png)
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <img src="https://raw.githubusercontent.com/Salaou-Hasan/Godot-MCP-Server/main/images/Also_tools.png" alt="More tools" style="width: 100%; height: auto;">
+    <div style="padding: 12px; text-align: center; background: #f5f5f5;">
+      <strong>Additional tools</strong> – Approval workflow, testing, etc.
+    </div>
+  </div>
 
-![More tools](https://raw.githubusercontent.com/Salaou-Hasan/Godot-MCP-Server/main/images/Also_tools.png)
+</div>
