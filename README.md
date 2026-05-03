@@ -49,15 +49,12 @@ This MCP (Model Context Protocol) server gives Claude Desktop full control over 
 
 ## Screenshots
 
-## Location
-
-![Location](images/Location.png)
+### Location
+![Location](https://raw.githubusercontent.com/Salaou-Hasan/Godot-MCP-Server/main/images/Location.png)
 
 ### Enabling the plugin in Godot
-
-![Plugin enabled](images/Plugin_enabled.png)
+![Plugin enabled](https://raw.githubusercontent.com/Salaou-Hasan/Godot-MCP-Server/main/images/Plugin_enabled.png)
 
 ### Claude Desktop showing available tools
-
-![Claude tools](images/Tools.png)
-![Claude tools](images/Also_tools.png)
+![Claude tools](https://raw.githubusercontent.com/Salaou-Hasan/Godot-MCP-Server/main/images/Tools.png)
+![Claude tools](https://raw.githubusercontent.com/Salaou-Hasan/Godot-MCP-Server/main/images/Also_tools.png)
